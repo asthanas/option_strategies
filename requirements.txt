@@ -6,3 +6,4 @@ azure-functions
 requests
 py5paisa==0.6.7
 black
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
